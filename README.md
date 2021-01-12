@@ -1,6 +1,12 @@
 # Project: Recommendation-Engine
 ## by Shivam Chauhan
 
+## Description
+In this project I have created different recommendation engine using similarity, collaborative filtering, content based filtering and mixed factorization. 
+
+## Installation
+These notebooks runs on anaconda environment and the requirements of this environment can be installed using the file “requiremnt.txt”
+
 ## Dataset Overview
 
 > Data Was downloaded from MovieTweetings Data.
@@ -11,15 +17,8 @@
 
 >- all_recs - a dictionary where each key is a user, and the value is a list of movie recommendations based on collaborative filtering
 
-### Some important features:
->- LoanStatus : Current status of the loan like chargedoff, completed, defauted etc…
->- EstimatedEffectiveYield : Yield of lenders from borrowers minus the processing fee and late fines
->- BorrowerAPR : The Borrower’s Annual Percentage Rate (APR) for the loan.
->- BorrowerRate : The Borrower’s interest rate for this loan.
->- LoanOriginalAmount : Original amount of the loan
->- LoanOriginationQuarter : Quarter of the month when loan was originated
->- Term : Length of loan expressed in months
 
 ## Files in this repository
->- `exploration_Loan_Data.ipynb` : It has all the exploratory data analysis.
->- `slide_deck_loan.ipynb` : It has the explainatory data analysis i.e final presentation. 
+>- [`Simple Recommentation Engine.ipynb`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/Simple%20Recommendation%20Engine/Simple%20Recommentation%20Engine.ipynb) : Will Recommend n top most popular movies with filters of year of release and genre
+>- [`Collaborative Filtering .ipynb`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/collaborative%20filtering/Collaborative%20Filtering%20.ipynb) : In collaborative filtering, collaboration of user-item recommendations is used to assist in making new recommendations
+>- [`Content Based Recommendations .ipynb`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/Content-based%20filtering/Content%20Based%20Recommendations%20.ipynb) : Will recommend movies using content based filtering
