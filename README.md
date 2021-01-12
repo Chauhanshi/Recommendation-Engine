@@ -10,11 +10,8 @@ These notebooks runs on anaconda environment and the requirements of this enviro
 ## Dataset Overview
 
 > Data Was downloaded from MovieTweetings Data.
-
 >- movies - a dataframe of all of the movies in the dataset along with other content related information about the movies (genre and date)
-
 >- reviews - this was the main dataframe used before for collaborative filtering, as it contains all of the interactions between users and movies.
-
 >- all_recs - a dictionary where each key is a user, and the value is a list of movie recommendations based on collaborative filtering
 
 
