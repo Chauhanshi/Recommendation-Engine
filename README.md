@@ -21,5 +21,5 @@ These notebooks runs on anaconda environment and the requirements of this enviro
 >- [`Content Based Recommendations .ipynb`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/Content-based%20filtering/Content%20Based%20Recommendations%20.ipynb) : Will recommend movies using content based filtering
 
 
-## Files in this repository
+## Credits
 Credit for this project goes to Udacity. This project is a part of Udacity Data Science Nanodegree program.
