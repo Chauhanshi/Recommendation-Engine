@@ -19,3 +19,7 @@ These notebooks runs on anaconda environment and the requirements of this enviro
 >- [`Simple Recommentation Engine.ipynb`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/Simple%20Recomemdation%20Engine/Simple%20Recommentation%20Engine.ipynb) : Will Recommend n top most popular movies with filters of year of release and genre
 >- [`Collaborative Filtering .ipynb`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/collaborative%20filtering/Collaborative%20Filtering%20.ipynb) : In collaborative filtering, collaboration of user-item recommendations is used to assist in making new recommendations
 >- [`Content Based Recommendations .ipynb`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/Content-based%20filtering/Content%20Based%20Recommendations%20.ipynb) : Will recommend movies using content based filtering
+
+
+## Files in this repository
+Credit for this project goes to Udacity. This project is a part of Udacity Data Science Nanodegree program.
